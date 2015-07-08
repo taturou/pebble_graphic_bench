@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "taturou@gmail.com",
+    "longName": "GRAPHIC_BENCH",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "GRAPHIC_BENCH",
+    "uuid": "3849aa92-ffca-4fab-b340-67e11d17de46",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
